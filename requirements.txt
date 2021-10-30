@@ -9,7 +9,7 @@ docutils==0.18
 HTMLParser==0.0.2
 importlib_metadata==4.8.1
 keyring==18.0.1
-knox==0.1.14
+knox==0.1.1
 lockfile==0.12.2
 lxml==4.6.3
 numpy==1.21.3
