@@ -1,6 +1,5 @@
 brotli==1.0.9
 ConfigParser==5.0.2
-cryptography==2.8
 Cython==0.29.24
 Django==3.2.8
 django_rest_knox==4.1.0
