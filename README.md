@@ -7,7 +7,7 @@ A simple Mobile APP using Flutter as frontend and Django REST as backend
 
 2. Run on a terminal in the project folder to instaLL all dependencies ``` pip install -r requirements.txt ```
 
-3. Rum on a terminal, in the same folder  ``` python manage.py migrate  ``` 
+3. Run on a terminal, in the same folder  ``` python manage.py migrate  ``` 
 
 4. Test the application with command  ``` python manage.py runserver  ``` 
 
